@@ -1,3 +1,5 @@
+***!!This is my project made as part of the training in Yandex.Practicum!!***
+
 # Tariff_recomendation_project
 
 Mobile operator Megaline found out: many customers use archived tariffs. They want to build a system that can analyze customer behavior and offer users a new tariff: "Smart" or "Ultra".
