@@ -5,7 +5,7 @@ We have data on the behavior of customers who have already switched to these tar
 We need to build a model with as much accuracy as possible.
 
 ```
-Each object in the dataset is information about one user's behavior for one month.
+!Each object in the dataset is information about one user's behavior for one month!
 Data Description
   colls - number of calls,
   minutes - total duration of calls in minutes,
